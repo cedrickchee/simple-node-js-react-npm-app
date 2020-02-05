@@ -4,6 +4,12 @@ This repository is for the
 [Build a Node.js and React app with npm](https://jenkins.io/doc/tutorials/build-a-node-js-and-react-app-with-npm/)
 tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
 
+![Jenkins Pipelines](docs/assets/01_jenkins_blueocean_pipelines.png)
+
+![Jenkins Activity](docs/assets/02_jenkins_blueocean_activity.png)
+
+![Jenkins Pipeline](docs/assets/03_jenkins_blueocean_pipeline)
+
 The repository contains a simple Node.js and React application which generates
 a web page with the content "Welcome to React" and is accompanied by a test to
 check that the application renders satisfactorily.
