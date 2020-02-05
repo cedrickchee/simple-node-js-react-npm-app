@@ -8,7 +8,7 @@ tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
 
 ![Jenkins Activity](docs/assets/02_jenkins_blueocean_activity.png)
 
-![Jenkins Pipeline](docs/assets/03_jenkins_blueocean_pipeline)
+![Jenkins Pipeline](docs/assets/03_jenkins_blueocean_pipeline.png)
 
 The repository contains a simple Node.js and React application which generates
 a web page with the content "Welcome to React" and is accompanied by a test to
